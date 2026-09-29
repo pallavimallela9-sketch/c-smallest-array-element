@@ -1,0 +1,1 @@
+# c-smallest-array-element
